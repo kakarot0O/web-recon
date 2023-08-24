@@ -25,7 +25,7 @@ This Bash script automates various steps of web reconnaissance and enumeration t
 ## Usage
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/kakarot0O/web-recon.git
 2. Make the script executable :
    chmod +x recon-script.sh
 3. Run the script with the target URL as an argument:
